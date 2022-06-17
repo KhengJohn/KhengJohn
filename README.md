@@ -1,5 +1,5 @@
 <h1 style="color:red;"> Welcome 👋</h1>
-<h2> I'm John Idoko </br> Web Developer 🌐</h2>
+<h2> <b>I'm John Idoko</b></h2>  <h2> Web Developer 🌐</h2>
 
 <h2> Intersted In </h2>
 
@@ -17,9 +17,9 @@
 <ul>
   <li>
     <p><b> Email: </b> idokojohn42@yahoo.com </p>
-     <p><b> Whatsapp: </b> +2347036060982 </p>
   </li>
-  
+  <li> <p><b> Whatsapp: </b> +2347036060982 </p>
+  </li>
 </ul>
 
 <!---
